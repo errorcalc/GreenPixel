@@ -1,2 +1,2 @@
-Version=4.0.0.18
-Download=https://raw.githubusercontent.com/errorcalc/GreenPixel/master/GreenPixel.zip
+"ErrorSoft.GreenPixel.Version=4.0.0.18"
+"ErrorSoft.GreenPixel.Download=https://raw.githubusercontent.com/errorcalc/GreenPixel/master/GreenPixel.zip"
