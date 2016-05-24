@@ -1,12 +1,12 @@
 [RUS]
-1. Для получения исходного кода необходимо написать на errorsoft@mail.ru
-2. Почему я не выкладываю исходный код на Github? - т.к. это форк Greenfish Icon Editor Pro,
- то большую часть кода писал не я, и я не удовлетворён качеством имеющегося кода и не хочу
- выкладывать его в этот репозиторий. В планах полный рефакторинг кода.
- Если будет много запросов, то выложу код сюда, несмотря на неудовлетворительное качество кода.
+1. Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РёСЃС…РѕРґРЅРѕРіРѕ РєРѕРґР° РЅРµРѕР±С…РѕРґРёРјРѕ РЅР°РїРёСЃР°С‚СЊ РЅР° errorsoft@mail.ru
+2. РџРѕС‡РµРјСѓ СЏ РЅРµ РІС‹РєР»Р°РґС‹РІР°СЋ РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ РЅР° Github? - С‚.Рє. СЌС‚Рѕ С„РѕСЂРє Greenfish Icon Editor Pro,
+ С‚Рѕ Р±РѕР»СЊС€СѓСЋ С‡Р°СЃС‚СЊ РєРѕРґР° РїРёСЃР°Р» РЅРµ СЏ, Рё СЏ РЅРµ СѓРґРѕРІР»РµС‚РІРѕСЂС‘РЅ РєР°С‡РµСЃС‚РІРѕРј РёРјРµСЋС‰РµРіРѕСЃСЏ РєРѕРґР° Рё РЅРµ С…РѕС‡Сѓ
+ РІС‹РєР»Р°РґС‹РІР°С‚СЊ РµРіРѕ РІ СЌС‚РѕС‚ СЂРµРїРѕР·РёС‚РѕСЂРёР№. Р’ РїР»Р°РЅР°С… РїРѕР»РЅС‹Р№ СЂРµС„Р°РєС‚РѕСЂРёРЅРі РєРѕРґР°.
+ Р•СЃР»Рё Р±СѓРґРµС‚ РјРЅРѕРіРѕ Р·Р°РїСЂРѕСЃРѕРІ, С‚Рѕ РІС‹Р»РѕР¶Сѓ РєРѕРґ СЃСЋРґР°, РЅРµСЃРјРѕС‚СЂСЏ РЅР° РЅРµСѓРґРѕРІР»РµС‚РІРѕСЂРёС‚РµР»СЊРЅРѕРµ РєР°С‡РµСЃС‚РІРѕ РєРѕРґР°.
 
 [ENG]
 1. To get the source code please you write to errorsoft@mail.ru
 2. Why I not post the source code on Github? - Because it is a fork of Greenfish Icon Editor Pro,
  the majority of the code I did not write, and I'm not satisfied with the quality of the existing code.
- The plans of the full code refactoring.  If there is a lot of requests, then I lay out the code here.
+ The plans of the full code refactoring.В  If there is a lot of requests, then I lay out the code here.
