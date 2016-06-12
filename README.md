@@ -1,5 +1,5 @@
 # ErrorSoft GreenPixel
-**Pixel orintired graphics editor**
+**Pixels-oriented graphics editor**
 
 # Download
-Press here: https://raw.githubusercontent.com/errorcalc/GreenPixel/master/GreenPixel.zip
+**Press here:** https://raw.githubusercontent.com/errorcalc/GreenPixel/master/GreenPixel.zip
