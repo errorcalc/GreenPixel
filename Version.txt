@@ -1,3 +1,3 @@
 [AutoUpdate]
-ErrorSoft.GreenPixel.Version=4.0.2.6
+ErrorSoft.GreenPixel.Version=4.0.2.8
 ErrorSoft.GreenPixel.Download=https://raw.githubusercontent.com/errorcalc/GreenPixel/master/GreenPixel.zip
